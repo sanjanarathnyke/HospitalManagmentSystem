@@ -1,0 +1,13 @@
+RegDate: 2024/03/03
+Comments: dsadfsdfsdfsdfsdfsad
+Price: Rs.25,000
+Name: testuser
+Disease: gfhddad
+RoomNumber: 1
+Address: dasad
+sadsd
+PatientID: PID1860
+Gender: Male
+Age: 20
+PhoneNo: 10032121
+RoomType: VIP

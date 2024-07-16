@@ -1,0 +1,12 @@
+RegDate: 2024/02/26
+Comments: Damaged.Smoking
+Price: Rs.21,000
+Name: Udantha
+Disease: Lung
+RoomNumber: 1
+Address: Theldeniya
+PatientID: PID6351
+Gender: Male
+Age: 23
+PhoneNo: 119
+RoomType: Medium

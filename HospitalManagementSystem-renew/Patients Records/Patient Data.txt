@@ -1,0 +1,37 @@
+RegDate: 2024/02/26
+Comments: Damaged.Smoking
+Price: Rs.21,000
+Name: Udantha
+Disease: Lung
+RoomNumber: 1
+Address: Theldeniya
+PatientID: PID6351
+Gender: Male
+Age: 23
+PhoneNo: 119
+RoomType: Medium
+RegDate: 2024/02/26
+Comments: Mild
+Price: Rs.21,000
+Name: Shakya
+Disease: Fever
+RoomNumber: 1
+Address: Uplands Road
+PatientID: PID4940
+Gender: Male
+Age: 23
+PhoneNo: 774970885
+RoomType: Medium
+
+RegDate: 2024/02/26
+Comments: scsdcdc
+Price: Rs.21,000
+Name: shakya
+Disease: xcsc
+RoomNumber: 1
+Address: scscscsxcs
+PatientID: PID9188
+Gender: Male
+Age: 22
+PhoneNo: 223
+RoomType: Medium
